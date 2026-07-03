@@ -8,25 +8,16 @@
 
 </div>
 
----
-
-## about me
-
-```text
-> analyzing malware
-> writing python tools
-> using openbsd whenever possible
-> supporting open source software
-> always learning something new
-```
-
----
 
 ## tech stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,vscode" />
+![python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![openbsd](https://img.shields.io/badge/openbsd-333333?style=for-the-badge)
+![thonny](https://img.shields.io/badge/thonny-python_ide-2e8b57?style=for-the-badge)
+![vscode](https://img.shields.io/badge/vs_code-7f3cff?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![git](https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white)
 
 </p>
 
