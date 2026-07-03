@@ -1,7 +1,6 @@
 <div align="center">
 
 # mv4 👋  
-*malware analyst*
 
 <img src="https://readme-typing-svg.demolab.com?font=jetbrains+mono&pause=1200&color=8A2BE2&center=true&vcenter=true&width=500&lines=reverse+engineering;malware+analysis;python+developer;openbsd+enjoyer;open+source+advocate" />
 
