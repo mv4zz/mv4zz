@@ -30,17 +30,19 @@
 ![react](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black)
 ![vue](https://img.shields.io/badge/vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![nodejs](https://img.shields.io/badge/nodejs-339933?style=flat&logo=nodedotjs&logoColor=white)
-                      (*larping*)
+(*larping*)
 
 ---
 
 **stats**  
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=mv4zz&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mv4zz&layout=compact&theme=tokyonight&hide_border=true" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mv4zz&theme=tokyonight&hide_border=true" width="400" />
+
+![mv4zz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mv4zz&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mv4zz&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mv4zz&theme=tokyonight&hide_border=true)
 
 ---
-
 
 [![Email](https://img.shields.io/badge/Email-5q84ek48t@mozmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:5q84ek48t@mozmail.com)  
 [![Discord](https://img.shields.io/badge/Discord-@mv4-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1396562728298221710)
