@@ -36,9 +36,9 @@
 ---
 
 **stats**  
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" width="400" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=mv4zz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mv4zz&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mv4zz&theme=tokyonight&hide_border=true" width="400" />
 
 ---
 
@@ -48,5 +48,5 @@
 
 > *understand it. break it. improve it.*
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=8a2be2)
+![](https://komarev.com/ghpvc/?username=mv4zz&style=flat&color=8a2be2)
 </div>
