@@ -36,10 +36,6 @@
 
 **stats**  
 
-![mv4zz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mv4zz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mv4zz&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mv4zz&theme=tokyonight&hide_border=true)
 
 ---
