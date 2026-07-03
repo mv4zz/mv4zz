@@ -8,9 +8,8 @@
 <p align='center'>
 <img src="resources/python.svg" width="40" height="40"></a>
 <img src="resources/cmd.jpg" width="40" height="40"></a>
-<img src="resources/gt.svg" width="40" height="40"></a>
+<img src="resources/gt.jpg" width="40" height="40"></a>
 <img src="resources/openbsd.jpg" width="40" height="40"></a>
-<img src="resources/images-removebg-preview(1).png" width="40" height="40"></a>
 <img src="resources/arduino.png" width="40" height="40"></a>
 <img src="resources/vscode.png" width="40" height="40"></a>
 <img src="resources/html.jpg" width="40" height="40"><br>
