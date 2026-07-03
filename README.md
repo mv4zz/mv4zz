@@ -43,9 +43,10 @@
 
 **currently** · malware · python tools · cybersec · open source  
 
-**contact** · 5q84ek48t@mozmail.com  
-
+**email** · 5q84ek48t@mozmail.com  
+[![Discord](https://img.shields.io/badge/Discord-@mv4-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1396562728298221710)
+![](https://komarev.com/ghpvc/?username=mv4zz&style=flat&color=8a2be2)
 > *understand it. break it. improve it.*
 
-![](https://komarev.com/ghpvc/?username=mv4zz&style=flat&color=8a2be2)
+
 </div>
