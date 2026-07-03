@@ -35,8 +35,8 @@
 ---
 
 **stats**  
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=mv4zz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mv4zz&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />  
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=mv4zz&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mv4zz&layout=compact&theme=tokyonight&hide_border=true" />  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mv4zz&theme=tokyonight&hide_border=true" width="400" />
 
 ---
