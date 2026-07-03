@@ -9,7 +9,7 @@
 ![python](https://img.shields.io/badge/python-3776ab?style=flat&logo=python&logoColor=white)
 ![openbsd](https://img.shields.io/badge/openbsd-333?style=flat)
 ![thonny](https://img.shields.io/badge/thonny-2e8b57?style=flat)
-![vscode](https://img.shields.io/badge/vs_code-7f3cff?style=flat&logo=visualstudiocode&logoColor=white)
+![vscode](https://img.shields.io/badge/vs-code-7f3cff?style=flat&logo=visualstudiocode&logoColor=white)
 ![git](https://img.shields.io/badge/git-f05032?style=flat&logo=git&logoColor=white)  
 
 
