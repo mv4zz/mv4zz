@@ -12,7 +12,7 @@
 <img src="resources/arch.png" width="40" height="40"></a>
 <img src="resources/arduino.png" width="40" height="40"></a>
 <img src="resources/vscode.png" width="40" height="40"></a>
-<img src="resources/html.jpg" width="40" height="40"><br>
+<img src="resources/html.png" width="40" height="40"><br>
 
 
 ---
